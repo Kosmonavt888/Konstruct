@@ -185,7 +185,6 @@ body {
 }
 
 .about__flex-right__plan {
-  background-image: url(../img/plan.png);
   width: 140px;
   height: 224px;
 }
@@ -200,13 +199,11 @@ body {
 }
 
 .about__flex-right__manage {
-  background-image: url(../img/manage.png);
   width: 140px;
   height: 224px;
 }
 
 .about__flex-right__deliver {
-  background-image: url(../img/Build.png);
   width: 140px;
   height: 224px;
 }
