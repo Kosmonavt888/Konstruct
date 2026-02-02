@@ -28,7 +28,6 @@ body {
 }
 
 .header-bgc {
-  background-image: url(/img/header.png);
   max-width: 1440px;
   width: 100%;
   height: 768px;
@@ -186,7 +185,7 @@ body {
 }
 
 .about__flex-right__plan {
-  background-image: url(/img/plan.png);
+  background-image: url(../img/plan.png);
   width: 140px;
   height: 224px;
 }
@@ -201,13 +200,13 @@ body {
 }
 
 .about__flex-right__manage {
-  background-image: url(/img/manage.png);
+  background-image: url(../img/manage.png);
   width: 140px;
   height: 224px;
 }
 
 .about__flex-right__deliver {
-  background-image: url(/img/Build.png);
+  background-image: url(../img/Build.png);
   width: 140px;
   height: 224px;
 }
@@ -289,7 +288,6 @@ body {
 .work {
   height: 498px;
   max-width: 1440px;
-  background-image: url(/img/bg-contact.png);
   margin: 0 auto;
   background-repeat: no-repeat;
   text-align: center;
