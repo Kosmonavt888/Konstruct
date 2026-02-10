@@ -7,13 +7,26 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <title>Konstruct</title>
 </head>
 <body>
+    <ul id="slide-out" class="sidenav">
+                <img src="img/logo.svg" alt="z" class="header__nav_logo">
+                <li>
+                    <div class="divider"></div>
+                </li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#work">Work</a></li>
+                <li><a href="#contacts">Contacts</a></li>
+    </ul>
     <header class="header">
         <div class="header-bgc" style="background-image: url(img/header.png);">
             <img src="img/logo.svg" alt="Konstruct" class="header__logo">
+            
             <h1 class="h1-text header__h1">PARTNER WITH KONSTUCT</h1>
             <p class="header__p">An award-winning construction management firm</p>
             <h5 class="h5-text Header__h5">SCROLL DOWN</h5>
@@ -21,8 +34,12 @@
     </header>
     <section class="nav">
         <div class="container">
+            
             <div class="nav__inner">
-                <img src="img/logo-black.svg" alt="logo" class="nav_inner-img">
+                <div class="media_nav">
+                    <img src="img/logo-black.svg" alt="logo" class="nav_inner-img">
+                    <a href="#" data-target="slide-out" class="sidenav-trigger nav-btn"><i class="material-icons">menu</i></a>
+                </div>
                 <ul class="nav__ul">
                     <li><a href="#">Home</a></li>
                     <li><a href="#about">About</a></li>
