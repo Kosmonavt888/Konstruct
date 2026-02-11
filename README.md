@@ -7,7 +7,8 @@
     <li>The adaptive version for devices of different sizes is made according to its own design.</li>
     <li>On devices smaller than 1440px, the background of the header section is animated by setting keyframes and the animation property.</li>
     <li>Hover effect is used when focusing on a menu item.</li>
-    <li>slide out menu in the adaptive version using the Materialize framework.</li>
+    <li>Slide out menu in the adaptive version using the Materialize framework.</li>
+    <li>In the contacts section there are icons with social networks with active links.</li>
  </ul>
  <h2>Getting Started</h2>
  <a href ="https://kosmonavt888.github.io/Konstruct/">https://kosmonavt888.github.io/Konstruct/</a>
