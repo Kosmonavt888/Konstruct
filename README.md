@@ -14,7 +14,7 @@
  <h2>Technologies and Tools</h2>
  <ul>
     <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/CSS-511f78"/></li>
+    <li><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/BEM-0373fc"/></li>
     <li><img src="https://img.shields.io/badge/Flex-7aa9f5"/></li>
     <li><img src="https://img.shields.io/badge/Grid-f0933a"/></li>
