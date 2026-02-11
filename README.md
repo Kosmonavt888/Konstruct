@@ -4,10 +4,7 @@
 <h2>Features</h2>
 <ul>
     <li>The website is designed using PerfectPixel technology and fully conforms to the layout.</li>
-    <li>The adaptive version for devices of different sizes is made according to its own design.
-        <img src="img/IMG_5856.gif"/>
-    </li>
-    
+    <li>The adaptive version for devices of different sizes is made according to its own design.<img src="img/IMG_5856.gif"/></li>
     <li>On devices smaller than 1440px, the background of the header section is animated by setting keyframes and the animation property.</li>
     <li>Hover effect is used when focusing on a menu item.</li>
     <li>Slide out menu in the adaptive version using the Materialize framework.</li>
